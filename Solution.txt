@@ -1,0 +1,30 @@
+Question 0:
+
+Question 1:
+    Django needs template for html render this what makes django supporting the dynamic HTML. This is what flasking could not offer, but flask is more easy to use.
+
+Question 2:
+    REST stands for Representational state transfer, RESTful api means the api is designed following the REST priciples
+
+Question 3:
+    CRUD: reate, read, update and delete
+    Http methods:
+    create -> POST
+    read   -> GET
+    update -> PUT
+    delete -> DELETE
+
+Question 4:
+    1XX: Represent the request has been received
+    2XX: The request been accept by serve
+    3XX: Need action to process
+    4XX: Client returns error
+    5XX: Server returns error
+
+Question 5:
+    XSS: Cross Site Scripting attack, common use on hacking.
+    For Searching engines, hacker could inject scripts for something like prompting cookies to explorer user information if the site not proper filtering.
+
+Question 6:
+    CORS: Cross-Origin Resource Sharing
+    While the applications are sharing the important user information(Using google account for log in etc.)
